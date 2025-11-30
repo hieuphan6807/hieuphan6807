@@ -36,12 +36,11 @@
 * real-world insight analysis
   
 ## 📂Featured Projects:
-1️⃣  SQL| 
-https://github.com/hieuphan6807/RFM-analysis
-2️⃣
-3️⃣
-4️⃣
-5️⃣
+1️⃣  SQL| https://github.com/hieuphan6807/Adventure-work-2019
+2️⃣  SQL| https://github.com/hieuphan6807/Ecommerce-Cohort-Analysis
+3️⃣  Power BI| https://github.com/hieuphan6807/Ecommerce_Analyze
+4️⃣  Python| https://github.com/hieuphan6807/RFM-analysis
+5️⃣  Python| https://github.com/hieuphan6807/E-Wallet-Payments-Transactions-Analytics
 ## 🎓 Education & Certifications:
 **Education:**
 University: University of Economics HCM City | 2020 - 2024
