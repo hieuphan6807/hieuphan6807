@@ -36,7 +36,12 @@
 * real-world insight analysis
   
 ## 📂Featured Projects:
-
+1️⃣  SQL| 
+https://github.com/hieuphan6807/RFM-analysis
+2️⃣
+3️⃣
+4️⃣
+5️⃣
 ## 🎓 Education & Certifications:
 **Education:**
 University: University of Economics HCM City | 2020 - 2024
