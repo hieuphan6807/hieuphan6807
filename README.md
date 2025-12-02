@@ -46,6 +46,9 @@
 
 5️⃣  Python: https://github.com/hieuphan6807/E-Wallet-Payments-Transactions-Analytics
 
+6️⃣  Python: https://github.com/hieuphan6807/Churned_Users
+
+
 ## 🎓 Education & Certifications:
 **Education:**
 University: University of Economics HCM City | 2020 - 2024
