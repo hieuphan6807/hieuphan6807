@@ -42,11 +42,13 @@
 
 3️⃣  Power BI: https://github.com/hieuphan6807/Ecommerce_Analyze
 
-4️⃣  Python: https://github.com/hieuphan6807/RFM-analysis
+4️⃣  Power BI:
 
-5️⃣  Python: https://github.com/hieuphan6807/E-Wallet-Payments-Transactions-Analytics
+5️⃣  Python: https://github.com/hieuphan6807/RFM-analysis
 
-6️⃣  Python: https://github.com/hieuphan6807/Churned_Users
+6️⃣  Python: https://github.com/hieuphan6807/E-Wallet-Payments-Transactions-Analytics
+
+ 7️⃣ Python: https://github.com/hieuphan6807/Churned_Users
 
 
 ## 🎓 Education & Certifications:
