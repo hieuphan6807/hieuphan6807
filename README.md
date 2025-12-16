@@ -42,7 +42,7 @@
 
 3️⃣  Power BI: https://github.com/hieuphan6807/Ecommerce_Analyze
 
-4️⃣  Power BI:
+4️⃣  Power BI: https://github.com/hieuphan6807/Marketing-Campaign
 
 5️⃣  Python: https://github.com/hieuphan6807/RFM-analysis
 
